@@ -1,0 +1,5 @@
+D:\Projects\CI-Course\HelloCI\src\app\HelloCI.Core\bin\Debug\HelloCI.Core.dll
+D:\Projects\CI-Course\HelloCI\src\app\HelloCI.Core\bin\Debug\HelloCI.Core.pdb
+D:\Projects\CI-Course\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.csprojResolveAssemblyReference.cache
+D:\Projects\CI-Course\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.dll
+D:\Projects\CI-Course\HelloCI\src\app\HelloCI.Core\obj\Debug\HelloCI.Core.pdb
