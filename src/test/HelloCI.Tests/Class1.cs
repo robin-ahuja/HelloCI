@@ -15,7 +15,7 @@ namespace HelloCI.Tests
         [ExpectedException(typeof(DivideByZeroException))]
         public void Test()
         {
-            //comments
+            //comments added
             int i = 10, j = 0, x;
             x = i / j;
         }
