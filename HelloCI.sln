@@ -7,7 +7,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCI.Web", "src\app\Hell
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCI.Core", "src\app\HelloCI.Core\HelloCI.Core.csproj", "{1791FC0F-382F-4365-AF8B-34500EBA94F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCI.Tests", "HelloCI.Tests\HelloCI.Tests.csproj", "{B897F193-B966-4EA3-9955-6C18E9F02747}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloCI.Tests", "src\test\HelloCI.Tests\HelloCI.Tests.csproj", "{3170C4EC-E574-4C10-BE10-B20C2B460D63}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -23,10 +23,10 @@ Global
 		{1791FC0F-382F-4365-AF8B-34500EBA94F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1791FC0F-382F-4365-AF8B-34500EBA94F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1791FC0F-382F-4365-AF8B-34500EBA94F0}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B897F193-B966-4EA3-9955-6C18E9F02747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B897F193-B966-4EA3-9955-6C18E9F02747}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B897F193-B966-4EA3-9955-6C18E9F02747}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B897F193-B966-4EA3-9955-6C18E9F02747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3170C4EC-E574-4C10-BE10-B20C2B460D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3170C4EC-E574-4C10-BE10-B20C2B460D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3170C4EC-E574-4C10-BE10-B20C2B460D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3170C4EC-E574-4C10-BE10-B20C2B460D63}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
