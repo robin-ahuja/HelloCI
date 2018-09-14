@@ -11,13 +11,11 @@ namespace HelloCI.Tests
     [TestClass]
     class Class1
     {
-        [TestMethod]
-        [ExpectedException(typeof(DivideByZeroException))]
+        [TestMethod]       
         public void Test()
         {
             //comments added
-            int i = 10, j = 0, x;
-            x = i / j;
+            Assert.AreEqual("1","1");
         }
     }
 }
