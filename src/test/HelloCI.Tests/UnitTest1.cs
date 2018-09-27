@@ -9,7 +9,7 @@ namespace HelloCI.Tests
         [TestMethod]
         public void TestMethod1()
         {
-            var a = "";
+            var a = "b";
             Assert.AreEqual("1", "1");
         }
     }
